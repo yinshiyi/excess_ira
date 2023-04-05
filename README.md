@@ -1,4 +1,7 @@
 # excess_ira tax reporting
+## try your best not distrub it out as cash, do **recharacterization**
+
+if you distrub it out as cash, here is what to do
 
 | excess contribution period  | contribution count towards | removal of excess contribution by early distribution | what to do |
 | ------------- | ------------- | ------------- | ------------- |
